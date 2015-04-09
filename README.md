@@ -14,5 +14,6 @@ Current class generates the work-piece of modules for Joomla! developers.
 - Create module helper
 - Sample view with empty tmpl
 - Languages ini files [ +sys file]
+- Additional parameters [TODO type]
 - Security index.html files
 
